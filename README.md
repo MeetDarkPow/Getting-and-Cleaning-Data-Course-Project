@@ -12,7 +12,7 @@ Author: Meet Bhatnagar <br />
 Goal | Item | Link to Item
 --- | --- | ---
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/MeetDarkPow/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R)
-Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/data/tidyData.txt "tidyData.txt")
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/MeetDarkPow/Getting-and-Cleaning-Data-Course-Project/blob/master/tidyData.txt)
 Github Repo | Repo |  [Repo Link](https://github.com/MeetDarkPow/Getting-and-Cleaning-Data-Course-Project)
 Cookbook | CodeBook.md |  [Repo Link](https://github.com/MeetDarkPow/Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md)
 README | ReadingItNow |  [Repo Link](https://github.com/MeetDarkPow/Getting-and-Cleaning-Data-Course-Project/blob/master/README.md)
